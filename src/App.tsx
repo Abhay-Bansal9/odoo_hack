@@ -65,7 +65,7 @@ function App() {
                   <h1 className="text-3xl font-bold bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
                     SkillSaathi
                   </h1>
-                  <p className="text-white/60 text-sm">Where Skills Meet Destiny</p>
+                  <p className="text-white/60 text-sm">Empower. Exchange. Evolve. That’s the SkillSaathi way.</p>
                 </div>
               </div>
               
